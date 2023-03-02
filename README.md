@@ -1,5 +1,6 @@
 # Mapping_Earthquakes
-https://www.sms-tsunami-warning.com/theme/tsunami/img/structure-of-the-earth.jpg
+![image](https://user-images.githubusercontent.com/112978144/222587473-aad984b7-a9a9-4367-b8d1-1476e653160c.png)
+
 
 # Visualize Earthquake Data
 In order to visualize earthquake data for module challenge we use Leaflet API to create a geographical map with GeoJSON earthquake data that originates from a website.
